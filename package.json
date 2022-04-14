@@ -21,5 +21,9 @@
   "homepage": "https://github.com/retry19/example-nsqjs#readme",
   "volta": {
     "node": "12.14.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "nsqjs": "^0.13.0"
   }
 }
