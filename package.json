@@ -1,0 +1,25 @@
+{
+  "name": "example-nsqjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retry19/example-nsqjs.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Reza Rachmanuddin",
+    "email": "rezarahmanudin@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/retry19/example-nsqjs/issues"
+  },
+  "homepage": "https://github.com/retry19/example-nsqjs#readme",
+  "volta": {
+    "node": "12.14.1"
+  }
+}
