@@ -28,13 +28,13 @@ Make sure configuration for NSQ in `.env` is correct _(according to your environ
 
 ### 2. Run App
 
-1. Run subscriber to listen all messages from publisher :
+Run subscriber to listen all messages from publisher :
 
 ```bash
 npm run reader
 ```
 
-2. After reader.js was running, you test it with send default message, with run this :
+After reader.js was running, you test it with send default message, with run this :
 
 ```bash
 npm run writer:test
