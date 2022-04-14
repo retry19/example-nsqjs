@@ -34,7 +34,7 @@ Run subscriber to listen all messages from publisher :
 npm run reader
 ```
 
-After reader.js was running, you test it with send default message, with run this :
+After reader.js was running, you can test it with send default message, with run this :
 
 ```bash
 npm run writer:test
@@ -46,7 +46,7 @@ Or you can send custom text, using this command :
 npm run writer <INPUT_TEXT>
 ```
 
-Change `<INPUT_TEXT>` with text as you like, for example :
+Replace `<INPUT_TEXT>` with text as you like, for example :
 
 ```bash
 npm run writer "Luffy is not paramecia type"
